@@ -1,7 +1,12 @@
 
 # MT7902 Driver for Linux
+
+This was somebody else's project initially, I made tweaks as to get network speed to be significantly faster (up by 50-100Mbps dependent on your network speed)
+
 A newbie-friendly, temporary solution that encourages all contributions for long-term and stable use for MT7902 driver on Linux
 This repository provides the necessary files and script to install the MT7902 Wi-Fi driver on a Linux system using NDISWrapper.
+
+Update: Kernel Version 7.1 Will make this obsolete, keep that in consideration when using this repo
 
 ## Contents
 
